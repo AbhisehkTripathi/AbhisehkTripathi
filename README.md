@@ -2,7 +2,7 @@
 
 👋 Hello there! I'm Abhishek Tripathi, a passionate software developer with a keen interest in building innovative solutions and contributing to open-source projects. I'm dedicated to writing clean, efficient code and constantly learning and improving my skills in various programming languages and technologies.
 
-💼 Currently, I work as a Full Stack developer at Sigmoid frogs, where I am junior full stack developer my roles and responsibility are to write a robust code and learn the new technology.
+💼 Currently, I work as a **Software Developer L2** at Sigmoid frogs, where I am junior full stack developer my roles and responsibility are to write a robust code and learn the new technology.
 
 🚀 In my spare time, I love to collaborate on exciting projects on GitHub, where I actively contribute to open-source initiatives and share my own projects. My areas of expertise include javascript,php,python,(AI),reactNative and I'm always eager to explore new technologies and frameworks.
 
