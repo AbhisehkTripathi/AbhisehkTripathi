@@ -1,13 +1,11 @@
+👋 Hello there! I'm Abhishek Tripathi, a passionate software engineer who loves turning ideas into powerful and efficient code. I'm constantly exploring the latest in software development and **artificial intelligence**, striving to build innovative, real-world solutions.
 
+💼 I specialize in writing clean, maintainable code across various technologies including JavaScript, PHP, Python, MERN . I'm always curious and enjoy diving into new tools, frameworks, and tech trends.
 
-👋 Hello there! I'm Abhishek Tripathi, a passionate software developer with a keen interest in building innovative solutions and contributing to open-source projects. I'm dedicated to writing clean, efficient code and constantly learning and improving my skills in various programming languages and technologies.
+🚀 In my free time, I actively contribute to open-source projects and share personal experiments on GitHub. Collaboration and continuous learning are at the core of my developer journey.
 
-💼 Currently, I work as a **Software Developer L2** at Sigmoid frogs, where my roles and responsibility are to write a robust code and learn the new technology.
+📫 Let’s connect! I’m always open to new opportunities, tech discussions, and project collaborations. Reach out to me on LinkedIn: \[[https://www.linkedin.com/in/abhishek-tripathi-843b11217/](https://www.linkedin.com/in/abhishek-tripathi-843b11217/)]
 
-🚀 In my spare time, I love to collaborate on exciting projects on GitHub, where I actively contribute to open-source initiatives and share my own projects. My areas of expertise include javascript,php,python,(AI),reactNative and I'm always eager to explore new technologies and frameworks.
-
-📫 Let's connect! Feel free to reach out to me on LinkedIn [https://www.linkedin.com/in/abhishek-tripathi-843b11217/] to discuss ideas, collaborate on projects, or just chat about all things tech. I'm always open to new opportunities and networking with fellow developers.
-
-🌱 Fun fact: When I'm not coding, you can find me in grounds with cricket kits,football kits.
+🌱 Fun fact: When I’m not at the keyboard, I’m probably on the field with a cricket bat or a football.
 
 Happy coding! 🚀✨
