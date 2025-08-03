@@ -1,6 +1,6 @@
 👋 Hello there! I'm Abhishek Tripathi, a passionate **software engineer** who loves turning ideas into powerful and efficient code. I'm constantly exploring the latest in software development and **artificial intelligence**, striving to build innovative, real-world solutions.
 
-💼 I specialize in writing clean, maintainable code across various technologies including JavaScript, PHP, Python, MERN . I'm always curious and enjoy diving into new tools, frameworks, and tech trends.
+💼 I specialize in writing clean, maintainable code across various technologies including JavaScript, PHP, Python, MERN GO, RUST. I'm always curious and enjoy diving into new tools, frameworks, and tech trends.
 
 🚀 In my free time, I actively contribute to open-source projects and share personal experiments on GitHub. Collaboration and continuous learning are at the core of my developer journey.
 
